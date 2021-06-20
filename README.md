@@ -1,28 +1,7 @@
 ![Metaflow_Logo_Horizontal_FullColor_Ribbon_Dark_RGB](https://user-images.githubusercontent.com/763451/89453116-96a57e00-d713-11ea-9fa6-82b29d4d6eff.png)
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/talebzeghmi/metaflow/tz/workshop?urlpath=lab/tree/workshop)
-
-
-
-# Metaflow
-
-Metaflow is a human-friendly Python/R library that helps scientists and engineers build and manage real-life data science projects. Metaflow was originally developed at Netflix to boost productivity of data scientists who work on a wide variety of projects from classical statistics to state-of-the-art deep learning.
-
-For more information, see [Metaflow's website](https://metaflow.org) and [documentation](https://docs.metaflow.org).
-
-## Getting Started
-
-Getting up and running with Metaflow is easy. 
-
-### Python
-Install metaflow from [pypi](https://pypi.org/project/metaflow/):
-
-```sh
-pip install metaflow
-```
-
-and access tutorials by typing:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/talebzeghmi/metaflow/tz/workshop?urlpath=lab/workspaces/default)
 
 ```sh
 metaflow tutorials pull
