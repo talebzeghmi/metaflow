@@ -13,8 +13,9 @@ dependencies:
 - widgetsnbextension=3.5.1
 - ipyleaflet=0.14.0
 #- altair=4.1
-#- geopy=2.1.0
+- geopy=2.1.0
 #- bqplot=0.12.20
+- metaflow
 - matplotlib=3.3.4
 - pandas=1.2.4
 - Pillow=8.2.0
