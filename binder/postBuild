@@ -3,7 +3,7 @@ set -ex
 jupyter lab clean
 
 # Setup a workspace
-# jupyter lab workspaces import binder/workspace.json
+jupyter lab workspaces import binder/workspace.json
 
 ls -ltr
 
