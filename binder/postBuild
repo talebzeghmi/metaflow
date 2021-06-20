@@ -1,10 +1,8 @@
+#!/bin/bash
+
 set -ex
 
-jupyter lab clean
+python workshop/hello_flow.py run
 
 # Setup a workspace
 jupyter lab workspaces import binder/workspace.json
-
-ls -ltr
-
-python workshop/hello_flow.py run
