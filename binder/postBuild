@@ -5,4 +5,4 @@ set -ex
 python workshop/hello_flow.py run
 
 # Setup a workspace
-jupyter lab workspaces import binder/workspace.json
+jupyter lab workspaces import binder/workshop.jupyterlab-workspace
