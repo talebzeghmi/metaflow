@@ -2,6 +2,7 @@
 
 set -ex
 
+pip install -e .
 python workshop/hello_flow.py run
 
 # Setup a workspace
